@@ -1,6 +1,6 @@
 # Objective:
 
-* The objective of this project is to build regular neural network and try to classify handwritten digits using Tensorflow.
+* The objective of this project is to build a neural network to classify handwritten digits using Tensorflow.
 
 # Description:
 
@@ -10,5 +10,5 @@
 
 # Dataset link:
 
- MNSIT Database:
+ * MNSIT Database:
  http://yann.lecun.com/exdb/mnist/
